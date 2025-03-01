@@ -8,6 +8,8 @@
 - On teste la connectivité Internet depuis une machine interne en utilisant un ping vers une adresse externe (par exemple, `ping 8.8.8.8`)
 
 
+![image](https://github.com/user-attachments/assets/bb90c45c-b1b6-4df6-b255-e18a671cc650)
+
 ### 2. Tester que la machine client peut accéder à l'extérieur
 - Depuis la machine cliente, ouvrez l'invite de commande ou le terminal.
 - Exécutez la commande suivante pour vérifier la connectivité :
