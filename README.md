@@ -16,7 +16,8 @@
   ```bash
   ping 8.8.8.8
 
-![image](https://github.com/user-attachments/assets/64d08e8c-5981-48aa-bfb1-762008ea844b)
+![image](https://github.com/user-attachments/assets/dc0ff9e0-71aa-4183-89fd-58803b83488c)
+
 
 
 3. Mettre en place une règle de filtrage réseau pour interdire à la machine client de sortir du réseau interne
