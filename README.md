@@ -10,7 +10,6 @@
 
 ![image](https://github.com/user-attachments/assets/bb90c45c-b1b6-4df6-b255-e18a671cc650)
 
-![image](https://github.com/user-attachments/assets/a42f7ce0-9810-4755-b703-49d341c80802)
 
 
 ### 2. Tester que la machine client peut accéder à l'extérieur
