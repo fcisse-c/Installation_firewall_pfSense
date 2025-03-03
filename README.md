@@ -1,9 +1,9 @@
 # Sécurité réseau Installation du firewall pfSense
 ### 1. Installer pfSense : Configuration et Test de pfSense
-
+  ![image](https://github.com/user-attachments/assets/79d2b35e-0786-47ad-aff8-1c760c5c65f6)
+  
 ### 2. Pour s'assurer d'une configuration réseau valide permettant aux machines internes d'accéder à l'extérieur
 - On va s'assurer que pfSense est configuré correctement avec une interface LAN (réseau interne) et une interface WAN (accès à Internet).
-  ![image](https://github.com/user-attachments/assets/79d2b35e-0786-47ad-aff8-1c760c5c65f6)
 
   ![image](https://github.com/user-attachments/assets/85b963a2-c3b7-4736-8268-29b1e672dfc4)
 
