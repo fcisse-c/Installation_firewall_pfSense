@@ -7,21 +7,10 @@
 
   ![image](https://github.com/user-attachments/assets/85b963a2-c3b7-4736-8268-29b1e672dfc4)
 
-
+### 2. Tester que la machine client peut accéder à l'extérieur
 - On teste la connectivité Internet depuis une machine interne en utilisant un ping vers une adresse externe (par exemple, `ping 8.8.8.8`)
 ![image](https://github.com/user-attachments/assets/7acb756f-cca3-4dff-95f6-8aff2a84b8a3)
 
-
-
-
-
-
-
-### 2. Tester que la machine client peut accéder à l'extérieur
-- Depuis la machine cliente, ouvrez l'invite de commande ou le terminal.
-- Exécutez la commande suivante pour vérifier la connectivité :
-  ```bash
-  ping 8.8.8.8
 
 
 
@@ -42,3 +31,5 @@ Ajoutez une nouvelle règle pour bloquer le trafic sortant de la machine cliente
     - Destination : Any
 
     - Description : Bloquer le trafic sortant de la machine cliente
+
+![image](https://github.com/user-attachments/assets/8e4e4aa7-bed6-4567-a7d1-3aa757c860bc)
