@@ -32,4 +32,5 @@ Ajoutez une nouvelle règle pour bloquer le trafic sortant de la machine cliente
 
     - Description : Bloquer le trafic sortant de la machine cliente
 
-![image](https://github.com/user-attachments/assets/8e4e4aa7-bed6-4567-a7d1-3aa757c860bc)
+![image](https://github.com/user-attachments/assets/8f1ce9c2-eb82-496e-8b62-1680b73b67d1)
+
